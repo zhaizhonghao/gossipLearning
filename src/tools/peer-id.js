@@ -1,4 +1,4 @@
-const PeerId = require('peer-id')
+const PeerId = require('peer-id');
 
 exports.getPeerId =  async function(){
     const id = await PeerId.create({ bits: 1024, keyType: 'rsa' });
