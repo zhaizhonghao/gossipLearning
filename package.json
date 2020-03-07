@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "node-emoji": "^1.10.0"
+  }
+}
